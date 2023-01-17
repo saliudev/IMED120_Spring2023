@@ -7,8 +7,12 @@ Hi, this is Nick J.
 Hi, I'm Taylor
 Hi, I'm Joseph. 
 Amanda Was here
+<<<<<<< HEAD
 Hi, I'm Sarah
 
+=======
+🤭 hi im Zach
+>>>>>>> 298772336c6c317e271258e78d2cebbb51b332ca
 
 
 
