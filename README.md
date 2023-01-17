@@ -22,3 +22,4 @@ of aviation,
 
 It me, Joshua Weiser, the starbuckaroo
 This is Scott in IMED 120.
+Hi, Joshua Scott here.
