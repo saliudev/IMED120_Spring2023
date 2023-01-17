@@ -7,7 +7,7 @@ Hi, this is Nick J.
 Hi, I'm Taylor
 Hi, I'm Joseph. 
 Amanda Was here
-<<<<<<< The Best
+<<<<<<< The Best <<<<<<<< W take
 Hi, I'm Sarah
 This is greg
 Sydney Hoffman aka Dj Catnip
