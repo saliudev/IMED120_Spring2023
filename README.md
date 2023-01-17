@@ -7,3 +7,10 @@ Hi, this is Nick J.
 Hi, I'm Taylor
 Hi, I'm Joseph. 
 Amanda Was here
+
+
+
+
+
+
+It me, Joshua Weiser, the starbuckaroo
