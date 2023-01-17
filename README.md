@@ -10,7 +10,7 @@ Amanda Was here
 <<<<<<< HEAD
 Hi, I'm Sarah
 This is greg
-
+Sydney Hoffman aka Dj Catnip
 =======
 🤭 hi im Zach
 >>>>>>> 298772336c6c317e271258e78d2cebbb51b332ca
