@@ -13,8 +13,7 @@ Wayne
 Hi, I'm Sarah
 This is greg
 Sydney Hoffman aka Dj Catnip
-=======
-🤭 hi im Zach
+🤭 hi im Zach (brassykibbles)
 >>>>>>> 298772336c6c317e271258e78d2cebbb51b332ca
 Hiya, I'm Robbie Gricks :P
 =======
@@ -30,9 +29,10 @@ This is greg
 Hi, I'm Arianna, and according to all known laws
 of aviation,
 
-
+I'm Alexys. I like Pie.
 
 It me, Joshua Weiser, the starbuckaroo
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 This is Scott in IMED 120.
@@ -45,3 +45,7 @@ A
 This is Scott in IMED 120.
 Hi, Joshua Scott here.
 >>>>>>> 3a0f7c6194744efdd458e9d5430d7c4d36d10f6f
+=======
+This is Scott in IMED 120.
+Hi, Joshua Scott here.
+>>>>>>> 0a627599d4963e7a245689ea79222e1493e04d3d
